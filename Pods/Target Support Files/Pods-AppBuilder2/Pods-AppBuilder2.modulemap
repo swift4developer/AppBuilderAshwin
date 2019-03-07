@@ -1,0 +1,6 @@
+framework module Pods_AppBuilder2 {
+  umbrella header "Pods-AppBuilder2-umbrella.h"
+
+  export *
+  module * { export * }
+}
